@@ -1,6 +1,6 @@
 # 10X Hacker Cup - CryptoPulse
 
-![CryptoPulse](https://storage.googleapis.com/vision-hack2skill-production/innovator/USER00242924/1732883905136-Demo5.jpg)
+![CryptoPulse]()
 
 CryptoPulse is your go-to web application for tracking, comparing, and managing cryptocurrency prices with ease. Built using the MERN stack, this platform empowers users to stay informed about the dynamic world of cryptocurrencies while providing a seamless experience for conversions and data visualization.
 
