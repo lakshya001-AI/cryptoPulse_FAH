@@ -1,4 +1,4 @@
-# 10X Hacker Cup - CryptoPulse
+#  CryptoPulse
 
 ![CryptoPulse]()
 
