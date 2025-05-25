@@ -1,138 +1,91 @@
-# 10X Hacker Cup - CryptoPulse
-
-![CryptoPulse](https://storage.googleapis.com/vision-hack2skill-production/innovator/USER00242924/1732883905136-Demo5.jpg)
-
-CryptoPulse is your go-to web application for tracking, comparing, and managing cryptocurrency prices with ease. Built using the MERN stack, this platform empowers users to stay informed about the dynamic world of cryptocurrencies while providing a seamless experience for conversions and data visualization.
+# **CryptoPulse 💹**  
+Stay informed and make smarter cryptocurrency decisions with **CryptoPulse**—a platform designed for real-time tracking, personalized insights, and AI-driven recommendations.  
+![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001543.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
-## Features
-
-### 1. **Live Cryptocurrency Prices**
-- Get real-time data for various cryptocurrencies using the CoinGecko API.
-
-### 2. **Compare Cryptocurrencies**
-- Compare different cryptocurrencies side-by-side to make informed decisions.
-
-### 3. **Favorites Management**
-- Add your favorite cryptocurrencies to a list for quick access.
-
-### 4. **Cryptocurrency Converter**
-- Convert any amount from cryptocurrency to your preferred fiat currency and vice versa.
-
-### 5. **Data Visualization**
-- Leverage interactive charts powered by `react-google-charts` to visualize trends and historical data.
+## 📖 **Overview**  
+CryptoPulse is your ultimate cryptocurrency companion, offering features like price tracking, market analysis, and AI-guided investment advice. Whether you're a seasoned investor or a crypto newbie, CryptoPulse equips you with the tools and insights needed to navigate the ever-changing crypto landscape.  
+![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20101037.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
-## Tech Stack
+## 🎯 **Our Mission**  
+To empower users by simplifying cryptocurrency investments through real-time data, intelligent insights, and a personalized experience.  
 
-### Frontend:
-- React.js
-- react-google-charts
-- CSS
-
-### Backend:
-- Node.js
-- Express.js
-
-### Database:
-- MongoDB
-
-### API:
-- [CoinGecko API](https://www.coingecko.com/en/api)
+![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20101114.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
-## Installation and Setup
+## 🚀 **Key Features**  
 
-### Prerequisites:
-- Node.js installed on your machine
-- MongoDB instance (local or cloud)
+### 🔹 1. Real-Time Cryptocurrency Tracking  
+Track prices and analyze market trends effortlessly:  
+✅ **Live Prices**: Up-to-date cryptocurrency prices fetched using the **CoinGecko API**.  
+✅ **Market Trends**: View 24-hour highs, lows, and market caps for comprehensive insights.  
+✅ **Interactive Charts**: Analyze historical price data for better investment decisions.  
 
-### Steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cryptopulse.git
-   cd cryptopulse
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   cd client
-   npm install
-   cd ..
-   ```
-
-3. Create a `.env` file in the root directory and add the following:
-   ```env
-   MONGO_URI=your_mongodb_connection_string
-   PORT=5000
-   REACT_APP_COINGECKO_API_URL=https://api.coingecko.com/api/v3
-   ```
-
-4. Start the application:
-   - **Backend**:
-     ```bash
-     npm start
-     ```
-   - **Frontend**:
-     ```bash
-     cd client
-     npm start
-     ```
-
-5. Open your browser and navigate to `http://localhost:3000`.
+![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001645.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
-## Screenshots
+### 🔹 2. Personalized Watchlist  
+Keep an eye on your favorite cryptocurrencies:  
+✅ **Favorite Section**: Create a customized watchlist to monitor and compare cryptocurrencies easily.  
+✅ **Comparison Tool**: Evaluate multiple cryptocurrencies side-by-side for informed decision-making.  
 
-1. **Login Page:**
-   ![Login Page](https://i.imgur.com/slJppQo.png)
-
-2. **Home Page:**
-   ![Home Page](https://i.imgur.com/1d6GDXk.png)
-
-3. **Top Currencies Prices:**
-   ![Top Currencies](https://i.imgur.com/fH1C3w1.png)
-
-4. **Currencies Page:**
-   ![Currencies Page](https://i.imgur.com/HpETiH4.png)
-
-5. **Currency Details and Daily Price Trend Chart:**
-   ![Currencies Detail Page](https://i.imgur.com/rYHLa6P.png)
-
-6. **Favorite Currency Page:**
-   ![Favorite Currency Page](https://i.imgur.com/26Ow0VE.png)
-
-7. **Currency Converter Page:**
-   ![Currency Converter Page](https://i.imgur.com/d3hDb37.png)
-   
-   
+![Favorite Watchlist](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001919.png?raw=true) <!-- Add image showing the favorite section here -->
 
 ---
 
-## Future Enhancements
-- Support for more fiat and cryptocurrencies.
-- Integration of additional APIs for market news and insights.
-- Mobile application version.
-- Buy and Sell cryptoCurrencies using Metamask Wallet
+### 🔹 3. GuideAI – AI-Powered Investment Advisor  
+Get expert advice on cryptocurrency investments based on your budget and preferences:  
+✅ **Budget-Based Recommendations**: Input your budget, and GuideAI suggests the best cryptocurrencies to invest in.  
+✅ **Trend Analysis**: AI leverages **LangChain**, **Gemini**, and **Cohere APIs** to analyze trends and provide tailored insights.  
+
+**Example Interaction with GuideAI:**  
+- User Query: *"Which cryptocurrency should I invest in with $500?"*  
+- AI Response: *"Based on your budget and market trends, consider investing in Ethereum and Solana for diversified growth."*  
+
+**Pipeline**: The recommendations are a result of a sophisticated pipeline integrating **LangChain** for seamless processing, **Gemini** for accurate data, and **Cohere** for advanced language models.  
+
+![GuideAI Example](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001955.png?raw=true) <!-- Add image showing an AI recommendation interface -->
 
 ---
 
-## Contributing
+### 🔹 4. Advanced API Integration  
+CryptoPulse integrates robust APIs to deliver reliable and up-to-date information:  
+✅ **CoinGecko API**: Fetches live cryptocurrency data, including prices and charts.  
+✅ **LangChain**: Enables seamless integration of AI-driven insights for enhanced user experiences.  
+✅ **Gemini and Cohere APIs**: Powers GuideAI for intelligent investment recommendations. 
 
-Contributions are welcome! Please fork this repository and submit a pull request with your changes.
-
----
-
-## Acknowledgements
-
-- [CoinGecko API](https://www.coingecko.com/en/api) for providing reliable cryptocurrency data.
-- Open-source libraries and tools used in this project.
+![API Integration](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/WhatsApp%20Image%202025-05-25%20at%2010.02.41_8d61bf70.jpg?raw=true) <!-- Add image showcasing API connectivity or data flow -->
 
 ---
 
-**Stay ahead in the crypto game with CryptoPulse!**
+### 🔹 5. Multi-Currency Support  
+CryptoPulse ensures accessibility for a global audience by providing multi-currency options. Users can view cryptocurrency prices in their preferred local currency, enhancing usability and relevance worldwide.  
+
+✅ **Local Currency Conversion**: View cryptocurrency prices in various global currencies.  
+✅ **Seamless Switching**: Easily toggle between currencies for personalized tracking.  
+
+![Multi-Language Support](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20004327.png?raw=true) <!-- Add image showing the language selection dropdown -->
+
+---
+
+## 🛠 **Tech Stack**  
+
+CryptoPulse is built using modern and reliable technologies to ensure a seamless experience for users.  
+
+| 💧 **Technology**   | 🔍 **Usage** |
+|-------------------|------------|
+| **Frontend**   | ReactJS (Vite) – Fast and optimized UI rendering. |
+| **Backend**    | Node.js, Express.js – Efficient server-side handling. |
+| **Database**   | MongoDB – Scalable and flexible NoSQL database. |
+| **AI Models** | LangChain with Gemini and Cohere APIs – Powering GuideAI. |
+| **API Integration** | CoinGecko API – Fetching real-time cryptocurrency data. |
+
+---
+
+
+
