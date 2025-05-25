@@ -6,14 +6,14 @@ Stay informed and make smarter cryptocurrency decisions with **CryptoPulse**—a
 
 ## 📖 **Overview**  
 CryptoPulse is your ultimate cryptocurrency companion, offering features like price tracking, market analysis, and AI-guided investment advice. Whether you're a seasoned investor or a crypto newbie, CryptoPulse equips you with the tools and insights needed to navigate the ever-changing crypto landscape.  
-![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001543.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
+![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20101037.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
 ## 🎯 **Our Mission**  
 To empower users by simplifying cryptocurrency investments through real-time data, intelligent insights, and a personalized experience.  
 
-![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001543.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
+![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20101114.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
