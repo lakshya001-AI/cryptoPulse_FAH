@@ -57,7 +57,7 @@ CryptoPulse integrates robust APIs to deliver reliable and up-to-date informatio
 ✅ **LangChain**: Enables seamless integration of AI-driven insights for enhanced user experiences.  
 ✅ **Gemini and Cohere APIs**: Powers GuideAI for intelligent investment recommendations. 
 
-![API Integration](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20002145.png?raw=true) <!-- Add image showcasing API connectivity or data flow -->
+![API Integration](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/WhatsApp%20Image%202025-05-25%20at%2010.02.41_8d61bf70.jpg?raw=true) <!-- Add image showcasing API connectivity or data flow -->
 
 ---
 
